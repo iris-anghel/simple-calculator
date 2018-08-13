@@ -1,7 +1,7 @@
 body {
     background: #303030 url(images/mark-solarski.jpg) fixed center;
     background-size: cover;
-    }
+}
 
 #calculator-container {
     width: 550px;
@@ -14,12 +14,12 @@ body {
     -moz-border-radius: 5px;
     border-radius: 5px;
     text-align: center;
-    }
+}
 
 form input {
     padding: 10px;
     margin: 10px 0;
-    }
+}
         
 form input[type="number"] {
     width: 40px;           
@@ -28,15 +28,15 @@ form input[type="number"] {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    }
+}
         
 form input[type="button"]:hover {
     background-color: #fcfcfc;
-    }
+}
         
 #equals, output {
     display: inline;
-    }
+}
         
 output {
     background-color: #fff;
@@ -45,7 +45,7 @@ output {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    }
+}
         
 #clearButton {
     display: block;
@@ -57,7 +57,7 @@ output {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    }
+}
       
 #clearButton:hover {
     background-color: #7072ff;
